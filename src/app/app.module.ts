@@ -9,7 +9,8 @@ import { AboutComponent } from './components/about/about.component';
 import { ServicesComponent } from './components/services/services.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import {HttpClientModule} from "@angular/common/http"
+import {HttpClientModule} from "@angular/common/http";
+import { ErrorPageComponent } from './components/error-page/error-page.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,7 +18,8 @@ import {HttpClientModule} from "@angular/common/http"
     HomeComponent,
     AboutComponent,
     ServicesComponent,
-    ContactComponent
+    ContactComponent,
+    ErrorPageComponent
   ],
   imports: [
     BrowserModule,
