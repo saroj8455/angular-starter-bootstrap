@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Bootstrap IntelliSense
+`https://marketplace.visualstudio.com/items?itemName=hossaini.bootstrap-intellisense#:~:text=Bootstrap%20Intellisense%20is%20a%20Visual%20Studio%20Code%20extension%20that%20offers,4%20and%20Bootstrap%205%20versions.` <br>
